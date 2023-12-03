@@ -54,7 +54,7 @@ const Form = () => {
   } 
 
   return (
-    <div className='bg-gradient-to-r from-slate-100 to-red-600 w-full h-screen min-h-full flex flex-col justify-center py-36 sm:px-6 lg:px-8 z-100 mf:h-screen'>
+    <div className='bg-gradient-to-r from-red-100 to-green-600 w-full h-screen min-h-full flex flex-col justify-center py-36 sm:px-6 lg:px-8 z-100 mf:h-screen'>
       <div>
       </div>
       <div className='sm:mx-auto sm:w-full sm:max-w-md'>
